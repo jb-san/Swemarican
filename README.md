@@ -19,7 +19,7 @@ option + ; = ö
 
 ### MacOS
 download and unzip the latest release from the release page.
-move the `swemarican.bundle` file to `/Library/Keyboard Layouts` and it should show up as a valid input in the keyboard switcher
+move the `swemarican.bundle` file to `/Library/Keyboard\ Layouts` and it should show up as a valid input in the keyboard switcher
 
 ### Win
 download and unzip the latest release from the release page.
